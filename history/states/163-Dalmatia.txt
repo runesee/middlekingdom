@@ -1,0 +1,25 @@
+state = {
+	id = 163
+	name = "STATE_163"
+	manpower = 10
+	
+	state_category = enclave
+	
+	history = {
+		victory_points = { #Zara/Zadar
+			3943 5 
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			3943 = {
+				naval_base = 1
+			}
+		}
+
+	}
+	provinces = {	
+		3943 
+	}
+
+	local_supplies = 0.0 
+}
