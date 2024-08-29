@@ -1,0 +1,17 @@
+
+state={
+	id=983
+	name="STATE_983"
+
+	history={
+	}
+    
+	provinces={
+		13380 13400 13401
+	}
+
+	manpower=10
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=7.000
+}
