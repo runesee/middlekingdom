@@ -1,0 +1,17 @@
+
+state={
+	id=990
+	name="STATE_990"
+
+	history={
+	}
+    
+	provinces={
+		1977 4910
+	}
+
+	manpower=10
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=7.000
+}

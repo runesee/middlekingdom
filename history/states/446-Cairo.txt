@@ -12,17 +12,10 @@ state = {
 		buildings = {
 			infrastructure = 3
 			
-			12049 = {
-				naval_base = 2
-			}
 			4073 = {
 				naval_base = 1
 			}
 
-		}
-		
-		victory_points = {
-			12049 5 
 		}
 		
 		victory_points = {
@@ -32,7 +25,7 @@ state = {
 	}
 
 	provinces = {
-		1155 4073 9947 12049 
+		1155 4073 9947 
 	}
 
 	buildings_max_level_factor = 1.000
