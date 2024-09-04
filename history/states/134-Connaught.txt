@@ -5,19 +5,10 @@ state=
 	name="STATE_134"
 	manpower = 10
 	
-	state_category = town
+    state_category = wasteland
 
 	history= {
-		victory_points = {
-			9303 3 #Galway
-		}
-		victory_points = {
-			11371 1 #Sligo
-		}
-		buildings = {
-			infrastructure = 3 #was: 6
-		}
-	}
+    }
 
 	provinces=
 	{

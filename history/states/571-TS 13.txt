@@ -4,21 +4,9 @@ state={
 	name="STATE_571" # Omsk
 	manpower = 10
 	
-	state_category = town
+    state_category = wasteland
 	history={
-		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-		}
-		victory_points = {
-			10696 3 
-		}
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-			}
-		}
-	}
+    }
 
 	provinces={
 		1709 1800 1835 4700 7800 10568 10626 10696 12546 12580 12652 

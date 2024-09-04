@@ -4,19 +4,7 @@ state = {
 	name = "STATE_823" #Karakalpakstan
 
 	history = {
-	
-		victory_points = {
-			1614 1
-		}
-		
-		
-		buildings = {
-			infrastructure = 2
-
-		}
-		
-		
-	}
+    }
 
 	provinces = {
 		1479 1576 1614 1721 4488 4618 7541 10348 12233 12471 12474 13207 
@@ -24,7 +12,7 @@ state = {
 	
 	manpower = 10
 	buildings_max_level_factor = 1.000
-	state_category = rural
+    state_category = wasteland
 
 	local_supplies = 0.0 
 }

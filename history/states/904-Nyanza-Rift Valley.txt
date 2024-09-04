@@ -2,14 +2,10 @@ state={
 	id=904
 	name="STATE_904"
 	manpower = 10
-	state_category = pastoral
+    state_category = wasteland
 
 	history={
-		buildings = {
-			infrastructure = 1
-
-		}
-	}
+    }
 
 	provinces={
 		5160 10860 11145 

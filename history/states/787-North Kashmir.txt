@@ -3,17 +3,10 @@ state={
 	name="STATE_787" # Northern Kashmir
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			1910 1
-		}
-		buildings = {
-			infrastructure = 1
-		}
-
-	}
+    }
 
 	provinces={
 		1910 2041 2084 10821 

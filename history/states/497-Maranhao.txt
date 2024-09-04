@@ -4,26 +4,11 @@ state = {
 	name = "STATE_497"
 	manpower = 10
 	
-	state_category = pastoral # Was rural
+    state_category = wasteland
 	
-	resources = {
-		rubber = 13 # was: 30, then 23
-	}
 
 	history = {
-
-
-		buildings = {
-			infrastructure = 1
-			#industrial_complex = 1 Should probably not have this factory
-			air_base = 1
-		}
-
-		victory_points = {
-			12933 2 
-		}
-
-	}
+    }
 
 	provinces = {
 		2150 5220 12913 12933 12947

@@ -3,22 +3,10 @@ state={
 	id=200
 	name="STATE_200" # Zaporozhe
 	manpower = 10
-	state_category = town
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			11405 1
-		}
-		buildings = {
-			infrastructure = 3 #was: 5
-			air_base = 3
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 1
-			}
-		}
-	}
+    }
 
 	provinces={
 		429 588 3399 3767 6596 9571 9729 11405 11700 

@@ -2,18 +2,10 @@ state={
 	id=906
 	name="STATE_906"
 	manpower = 10
-	state_category = small_island
+    state_category = wasteland
 
 	history={
-		buildings = {
-			infrastructure = 1
-			
-			8000 = {
-				naval_base = 1
-			}
-
-		}
-	}
+    }
 
 	provinces={
 		8000 

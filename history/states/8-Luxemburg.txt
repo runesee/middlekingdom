@@ -3,26 +3,14 @@ state=
 	id=8
 	name="STATE_8"
 	
-	state_category = town
+    state_category = wasteland
 	
 	manpower = 10
-	resources={
-		steel=5 # was: 8
+
+	history= {
 	}
 
-	history=
-	{
-		buildings = {
-			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 3
-		}
-		victory_points = { 6583 5 }
-	}
-
-	provinces=
-	{
-6583 	}
+	provinces = {6583 }
 
 	local_supplies=0.0 
 }

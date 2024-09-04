@@ -4,18 +4,12 @@ state={
 	name="STATE_811"
 
 	history={
-		buildings = {
-			infrastructure = 1
-		}
-		victory_points = {
-			185 1
-		}
-	}
+    }
 
 	provinces={
 		185 6201 
 	}
 	manpower = 10
 	buildings_max_level_factor=1.000
-	state_category=small_island
+    state_category = wasteland
 }

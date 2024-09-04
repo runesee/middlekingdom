@@ -4,16 +4,10 @@ state={
 	name="STATE_444" # Baluchistan
 	manpower = 10
 	
-	state_category = wasteland
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			8066 1
-		}
-		buildings = {
-			infrastructure = 1
-		}
-	}
+    }
 
 	provinces={
 		1179 5043 5075 7917 8013 8066 12761 12774 

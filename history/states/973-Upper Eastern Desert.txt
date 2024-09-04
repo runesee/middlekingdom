@@ -6,13 +6,13 @@ state={
 	history={
 		owner = EGY
 		add_core_of = EGY
-	}
+    }
 
 	provinces={
 		1080 9957 10126 12002 12889 13399
 	}
 	manpower=10
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+    state_category = wasteland
 	local_supplies=7.000
 }

@@ -4,24 +4,10 @@ state = {
 	name = "STATE_204" # Bobruysk
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 
 	history = {
-
-		victory_points = {
-			3350 3
-		}
-
-		#victory_points = {
-		#	11313 1 # Salihorsk was not founded until 1958 earliest
-		#}
-
-
-		buildings = {
-			infrastructure = 3 #was: 5
-		}
-
-	}
+    }
 
 	provinces = {
 		304 331 360 386 3350 3759 6373 11313 

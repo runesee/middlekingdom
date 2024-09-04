@@ -4,20 +4,10 @@ state={
 	name="STATE_30"
 	manpower = 10
 
-	state_category = city
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			11465 5
-		}
-		
-		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
-			dockyard = 1
-			air_base = 2
-		}
-	}
+    }
 
 	provinces={
 		503 527 3495 3509 3523 9478 9867 11463 11465 11613 11616 

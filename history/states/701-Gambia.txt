@@ -3,26 +3,14 @@ state={
 	name="STATE_701"
 
 	history={
-		victory_points = {
-			4989 1 
-		}
-		buildings = {
-			infrastructure = 2
-			4989 = {
-				naval_base = 1
-
-			}
-
-		}
-
-	}
+    }
 
 	provinces={
 		4989 13213 
 	}
 	manpower = 10
 	buildings_max_level_factor=1.000
-	state_category=enclave
+    state_category = wasteland
 
 	local_supplies=0.0 
 }

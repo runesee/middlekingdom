@@ -4,34 +4,11 @@ state = {
 	name = "STATE_144" # Nordland
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 	
-	resources = {
-		steel = 6
-	}
 
 	history = {
-		victory_points = {
-			192 5
-		}
-		victory_points = {
-			9126 1
-		}
-		
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-		}
-		buildings = {
-			infrastructure = 2
-			air_base = 1
-			192 = {
-				naval_base = 3
-			}
-			
-		}
-	}
+    }
 
 	provinces = {
 		38 192 3034 3132 3145 9126 11157 6214

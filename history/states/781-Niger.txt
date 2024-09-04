@@ -4,16 +4,10 @@ state={
 	name="STATE_781" # Niger
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			2056 1
-		}
-		buildings = {
-			infrastructure = 2
-		}
-	}
+    }
 
 	provinces={
 		1975 2056 12707

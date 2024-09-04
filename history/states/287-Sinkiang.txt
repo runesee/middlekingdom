@@ -3,14 +3,7 @@ state={
 	name="STATE_287"
 
 	history={
-		buildings = {
-			infrastructure = 1
-
-		}
-		victory_points = {
-			4973 1
-		}
-	}
+    }
 
 
 	provinces={
@@ -18,7 +11,7 @@ state={
 	}
 	manpower = 10
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+    state_category = wasteland
 
 	local_supplies=4.0 
 }

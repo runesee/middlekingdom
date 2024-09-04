@@ -4,18 +4,9 @@ state={
 	name="STATE_779" # Ivory Coast
 	manpower = 10
 	
-	state_category = pastoral
+    state_category = wasteland
 	history={
-		victory_points = {
-			10803 1
-		}
-		buildings = {
-			infrastructure = 2
-			10803 = {
-				naval_base = 1
-			}
-		}
-	}
+    }
 
 	provinces={
 		5013 5070 8065 8122 10762 10803

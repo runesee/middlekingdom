@@ -3,29 +3,11 @@ state={
 	id=535
 	name="STATE_535" # Koshinetsu
 	manpower = 10
-	state_category = large_city
+    state_category = wasteland
 	
-	resources={
-		steel=27 # was: 35
-		tungsten=8 # was: 10
-	}
 
 	history={
-		buildings = {
-		
-			arms_factory = 1
-			industrial_complex = 2
-			infrastructure = 2
-			dockyard = 1
-			fuel_silo = 1
-
-		}
-		
-		victory_points = {
-			10032 15
-		}
-
-	}
+    }
 
 	provinces={
 		998 7102 7217 10015 10032 

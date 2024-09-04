@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = SUD
-	}
+		add_core_of = SUD
+    }
     
 	provinces={
 		4963 13374 13387
@@ -13,6 +14,6 @@ state={
 
 	manpower=10
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+    state_category = wasteland
 	local_supplies=7.000
 }

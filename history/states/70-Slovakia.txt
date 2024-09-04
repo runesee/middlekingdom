@@ -3,29 +3,11 @@ state={
 	name="STATE_70"
 	manpower = 10
 	
-	state_category = city
+    state_category = wasteland
 	
-	resources={
-		tungsten=1 # was: 2
-	}
 
 	history={
-		victory_points = {
-			9692 10
-		}
-		victory_points = {
-			11539 5
-		}
-		buildings = {
-			infrastructure = 3
-			industrial_complex = 3
-			arms_factory = 2
-			air_base = 3
-		}
-
-		1939.3.14 = {
-		}
-	}
+    }
 
 	provinces={
 		541 3484 3537 9539 9692 11522 11539 

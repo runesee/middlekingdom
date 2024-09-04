@@ -4,19 +4,10 @@ state={
 	name="STATE_1" # Corsica
 	manpower = 10
 	
-	state_category = town
+    state_category = wasteland
 
 	history={
-		victory_points = { 3838 1 }
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			air_base = 1
-			3838 = {
-				naval_base = 3
-			}
-		}
-	}
+    }
 
 	provinces={
 		3838 9851 11804 

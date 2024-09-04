@@ -3,22 +3,10 @@ state = {
 	name = "STATE_511" # Mendoza
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 
 	history = {
-
-
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			air_base = 1
-		}
-
-		victory_points = {
-			10964 2 
-		}
-
-	}
+    }
 
 	provinces = {
 		2179 2215 8215 10964 10992  

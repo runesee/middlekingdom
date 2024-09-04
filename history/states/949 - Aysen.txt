@@ -3,28 +3,11 @@ state = {
 	name = "STATE_949" # Aysen
 	manpower = 10
 	
-	state_category = pastoral
+    state_category = wasteland
 
-	resources = {
-		aluminium = 1
-	}
-	resources = {
-		oil = 1
-	}
 
 	history = {
-
-
-		buildings = {
-			infrastructure = 1
-			#dockyard = 1
-		}
-
-		victory_points = {
-			2161 2
-		}
-		
-	}
+    }
 
 	provinces = {
 		2161 5118 5159 8198 10961 13295

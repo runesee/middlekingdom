@@ -6,19 +6,10 @@ state={
 	}
 	manpower = 10
 	
-	state_category = enclave
+    state_category = wasteland
 
 	history= {
-		victory_points = {
-			12029 1
-		}
-		buildings = {
-			infrastructure = 1
-		}
-
-		1938.9.30 = {
-		}
-	}
+    }
 
 	local_supplies=0.0 
 }

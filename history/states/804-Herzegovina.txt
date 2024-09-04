@@ -5,20 +5,11 @@ state={
 	manpower = 10
 	
 	
-	state_category = town
+    state_category = wasteland
 	
-	resources={
-		aluminium=7 # was: 10
-	}
 
 	history={
-		victory_points = {
-			9894 3
-		}
-		buildings = {
-			infrastructure = 2
-		}
-	}
+    }
 
 	provinces={
 		953 6942 9894 11845 

@@ -2,7 +2,7 @@ state={
 	id=712
 	name="STATE_712"
 	manpower = 10
-	state_category = tiny_island
+    state_category = wasteland
 	
 	history=
 	{

@@ -3,26 +3,11 @@ state={
 	name="STATE_90" # Kielce
 	manpower = 10
 	
-	state_category = town
+    state_category = wasteland
 	
-	resources={
-		steel=8 # was: 12
-	}
 
 	history={
-		victory_points = {
-			11430 5
-		}
-		victory_points = {
-			3458 5
-		}
-		#victory_points = {
-		#	562 3
-		#}
-		buildings = {
-			infrastructure = 3
-		}
-	}
+    }
 
 	provinces={
 		562 3458 3497 3586 6416 11430 11532 

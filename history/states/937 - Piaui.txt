@@ -4,24 +4,11 @@ state = {
 	name = "STATE_937"
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 	
-	resources = {
-	}
 
 	history = {
-
-
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-		}
-
-		victory_points = {
-			5153 1 
-		}
-
-	}
+    }
 
 	provinces = {
 		2228 5153 5204 10984 13275

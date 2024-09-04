@@ -4,21 +4,10 @@ state={
 	name="STATE_555" #Kuril Islands
 	manpower = 10
 	
-	state_category = tiny_island
+    state_category = wasteland
 
 	history={
-		#add_core_of = JAP
-		#add_claim_by = SOV # Removed because of too much aggression
-		buildings = {
-			infrastructure = 2
-			1399 = {
-				naval_base = 3
-
-			}
-
-		}
-
-	}
+    }
 
 	provinces={
 		1399 1515 13037 

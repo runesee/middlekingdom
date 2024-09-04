@@ -5,22 +5,14 @@ state={
 
 	history={
 		owner = EGY
-		buildings = {
-			infrastructure = 1
-
-		}
-		victory_points = {
-			13363 1 
-		}
 		add_core_of = EGY
-
-	}
+    }
 
 	provinces={
 		13363 13364
 	}
 	manpower=1043
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+    state_category = wasteland
 	local_supplies=7.000
 }
