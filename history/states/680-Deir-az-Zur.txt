@@ -3,22 +3,10 @@ state={
 	name="STATE_680"
 	manpower = 10
 	
-	state_category = wasteland
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			3942 1
-		}
-		victory_points = {
-			1549 1
-		}
-		victory_points = {
-			6883 1
-		}
-		buildings = {
-			infrastructure = 1
-		}
-	}
+    }
 
 
 	provinces={

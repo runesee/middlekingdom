@@ -4,22 +4,9 @@ state={
 	name="STATE_772" # Middle Congo (Brazzaville)
 	manpower = 10
 	
-	state_category = pastoral
-	resources={
-		rubber=1 # was: 1
-	}
+    state_category = wasteland
 	history={
-		victory_points = {
-			8193 2
-		}
-		buildings = {
-			infrastructure = 2
-			12975 = {
-				naval_base = 1
-			}
-		}
-
-	}
+    }
 
 	provinces={
 		2192 3109 6008 8193 12975 

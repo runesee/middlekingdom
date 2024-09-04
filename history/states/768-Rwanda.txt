@@ -2,20 +2,10 @@ state={
 	id=768
 	name="STATE_768" # Rwanda
 	
-	state_category = pastoral
-	resources = {
-		tungsten = 3
-	}
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			9962 1
-		}
-		buildings = {
-			infrastructure = 1
-
-		}
-	}
+    }
 
 	provinces={
 		9962

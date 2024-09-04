@@ -4,21 +4,10 @@ state=
 	name="STATE_145" #ÅLAND
 	manpower = 10
 	
-	state_category = small_island
+    state_category = wasteland
 	
 	history = {
-		
-		victory_points = { #Mariehman
-			9228 1
-		}
-
-		buildings = {
-			infrastructure = 2 #TODO_Manu: Was 3
-			9228 = {
-				naval_base = 1
-			}
-		}
-	}
+    }
 	
 	provinces=	{
 		9228

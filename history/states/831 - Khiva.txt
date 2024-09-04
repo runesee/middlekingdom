@@ -4,17 +4,7 @@ state = {
 	name = "STATE_831" #Khiva
 
 	history = {
-	
-		victory_points = {
-			12465 1
-		}
-		buildings = {
-			infrastructure = 2
-
-		}
-		
-		
-	}
+    }
 
 	provinces = {
 		 10395 10435 12324 12454 12465
@@ -22,7 +12,7 @@ state = {
 	
 	manpower = 10
 	buildings_max_level_factor = 1.000
-	state_category = rural
+    state_category = wasteland
 
 	local_supplies = 0.0 
 }

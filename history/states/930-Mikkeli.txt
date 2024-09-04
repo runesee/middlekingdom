@@ -4,23 +4,10 @@ state={
 
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 	
 	history={
-
-		victory_points = { #Mikkeli
-			165 1
-		}
-
-		victory_points = { #Savonlinna
-			37 1
-		}
-		
-		buildings = {
-			infrastructure = 1 #TODO_Manu: Was 2
-		}
-		
-	}
+    }
 
 	provinces={
 		37 165 3013 3131 9056 9073 9163 11043 11138 13104 13108 

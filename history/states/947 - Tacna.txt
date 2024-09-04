@@ -1,25 +1,11 @@
 state = {
 	id = 947
 	name = "STATE_947"
-	resources = {
-		tungsten = 2
-	}
 	
-	state_category = rural
+    state_category = wasteland
 
 	history = {
-
-
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-		}
-
-		victory_points = {
-			13086 2
-		}
-
-	}
+    }
 
 	provinces = {
 		13086 13287

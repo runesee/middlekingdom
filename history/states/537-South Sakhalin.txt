@@ -2,26 +2,11 @@ state= {
 	id=537
 	name="STATE_537"
 	manpower = 10
-	resources={
-		oil=3 # was: 4
-	}
 	
-	state_category = rural
+    state_category = wasteland
 
 	history= {
-		
-		buildings = {
-			infrastructure = 2
-			12446 = {
-				naval_base = 1
-
-			}
-		}
-		victory_points = {
-			12446 1
-		}
-
-	}
+    }
 	provinces=
 	{
 1322 1820 12446 	}

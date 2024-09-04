@@ -4,15 +4,9 @@ state={
 	name="STATE_778" # Upper Volta
 	manpower = 10
 	
-	state_category = pastoral
+    state_category = wasteland
 	history={
-		victory_points = {
-			10836 1
-		}
-		buildings = {
-			infrastructure = 2
-		}
-	}
+    }
 
 	provinces={
 		2001 7950 7983 8071 10836 12851

@@ -4,19 +4,10 @@ state={
 	name="STATE_225" # Sumy
 	manpower = 10
 	
-	state_category = town
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			3520 3
-		}
-		victory_points = {
-			9566 1
-		}
-		buildings = {
-			infrastructure = 3 #was: 5
-		}
-	}
+    }
 
 	provinces={
 		463 501 522 3225 3455 3520 6565 9477 9566 11462 11553 

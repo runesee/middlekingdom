@@ -6,19 +6,10 @@ state={
 	}
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 
 	history= {
-		victory_points = {
-			3862 3
-		}
-		victory_points = {
-			919 5
-		}
-		buildings = {
-			infrastructure = 2
-		}
-	}
+    }
 
 	local_supplies=0.0 
 }

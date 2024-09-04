@@ -4,23 +4,11 @@ state={
 	name="STATE_222"
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 	
-	resources={
-		steel=40 # was: 76
-		chromium=8 # was: 12
-	}
 
 	history={
-		victory_points = {
-			9355 10
-		}
-		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 1
-			air_base = 4
-		}
-	}
+    }
 
 	provinces={
 		302 328 384 6355 9328 9355 9384 9411 11214 11283 11310 11337 11368 

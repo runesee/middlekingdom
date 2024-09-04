@@ -3,20 +3,14 @@ state={
 	name="STATE_45"
 
 	history={
-		victory_points = { 619 3 }
-		buildings = {
-			infrastructure = 3
-
-		}
-
-	}
+    }
 
 	provinces={
 		619 3617 3623 9608 9621
 	}
 	manpower = 10
 	buildings_max_level_factor=1.000
-	state_category=town
+    state_category = wasteland
 
 	local_supplies=0.0 
 }

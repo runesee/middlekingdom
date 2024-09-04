@@ -2,16 +2,10 @@ state={
 	id=898
 	name="STATE_898"
 	manpower = 10
-	state_category = wasteland
+    state_category = wasteland
 
 	history={
-		
-		buildings = {
-			infrastructure = 2
-
-		}
-
-	}
+    }
 
 	provinces={
 		2044 5101 7930 7954 10788 

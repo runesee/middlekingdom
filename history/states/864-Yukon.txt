@@ -5,9 +5,9 @@ state={
 		3606 7869 7891 
 	}
 	history = {
-	}
+    }
 	manpower = 10
-	state_category = wasteland
+    state_category = wasteland
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

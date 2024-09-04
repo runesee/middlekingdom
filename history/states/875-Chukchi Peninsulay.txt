@@ -3,24 +3,14 @@ state = {
 	name = "STATE_875" #Chukchi Peninsula
 
 	history = {
-		victory_points = {
-			13204 1 
-		}
-		buildings = {
-			infrastructure = 1
-			13204 ={
-				naval_base = 1
-			}
-		}
-
-	}
+    }
 
 	provinces = {
 		13204 13254
 	}
 	manpower = 10
 	buildings_max_level_factor = 1
-	state_category = "pastoral"
+    state_category = wasteland
 
 	local_supplies = 0.0 
 }

@@ -4,7 +4,7 @@ state=
 	name="STATE_297" # Equatorial Guinea
 	manpower = 10
 	
-	state_category = enclave
+    state_category = wasteland
 	
 	history=
 	{

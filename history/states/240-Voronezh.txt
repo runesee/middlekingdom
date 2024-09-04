@@ -4,21 +4,10 @@ state={
 	name="STATE_240" # Belgorod
 	manpower = 10
 	
-	state_category = town
+    state_category = wasteland
 
 	history={
-		victory_points = {
-			9449 1
-		}
-		buildings = {
-			infrastructure = 3 #was: 5
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 1
-			}
-		}
-	}
+    }
 
 	provinces={
 		473 534 3492 6432 6481 6517 6577 9424 9449 9489 9518 11439 11500 

@@ -4,16 +4,10 @@ state={
 	name="STATE_210" # Nevel
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 
 	history={
-		buildings = {
-			infrastructure = 3 #was: 5
-		}
-		victory_points = {
-			11234 1
-		}
-	}
+    }
 
 	provinces={
 		207 248 354 387 3333 6242 6293 9254 9331 9353 9386 11234 11259 

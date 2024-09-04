@@ -5,20 +5,9 @@ state={
 		506 6464
 	}
 	manpower = 10
-	resources={
-		steel=19 # was: 60
-		aluminium=7 # was: 20
-	}
-	state_category = city
+    state_category = wasteland
 	history={
-		victory_points = {
-			6464 5
-		}
-		buildings = {
-			infrastructure = 3 #was: 6
-			industrial_complex = 1
-		}
-	}
+    }
 
 	local_supplies=0.0 
 }

@@ -4,15 +4,13 @@ state={
 	name="STATE_970"
 	manpower = 10
 	
-	state_category = wasteland
+    state_category = wasteland
 	impassable = no
 
 	history={
-		buildings = {
-			infrastructure = 0
-		}
 		owner = EGY
-	}
+		add_core_of = EGY
+    }
 
 	provinces={
 		10097 10127 7216 12099 2064

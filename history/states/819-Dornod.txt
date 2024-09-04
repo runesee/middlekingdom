@@ -6,15 +6,9 @@ state={
 	}
 
 	history={
-		buildings = {
-			infrastructure = 1
-		}
-		victory_points = {
-			12557 1 #Choibalsan
-		}
-	}
+    }
 	manpower = 10
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+    state_category = wasteland
 	local_supplies=0.000
 }

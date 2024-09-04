@@ -2,15 +2,10 @@ state = {
 	id=884
 	name = "STATE_884"  # Upper Nile 
 	manpower = 10
-	state_category = pastoral
+    state_category = wasteland
 
 	history = {
-		buildings = {
-			infrastructure = 2
-
-		}
-
-	}
+    }
 
 	provinces = {
 		2096 10859 10877 12800 

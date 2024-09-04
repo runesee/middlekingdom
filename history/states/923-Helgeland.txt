@@ -3,26 +3,11 @@ state = {
 	name = "STATE_923"
 	manpower = 10
 	
-	state_category = rural
+    state_category = wasteland
 	
-	resources = {
-		steel = 3 
-		tungsten = 5
-	}
 
 	history = {
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-		}
-		victory_points = {
-			3048 1
-		}
-		buildings = {
-			infrastructure = 2
-		}
-	}
+    }
 
 
 	provinces = {

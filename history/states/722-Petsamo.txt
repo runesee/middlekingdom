@@ -3,26 +3,10 @@ state={
 	name="STATE_722" #PETSAMO
 	manpower = 10
 
-	state_category = enclave
+    state_category = wasteland
 
 	history={
-
-		victory_points = { #Petsamo
-			9140 1
-		}
-
-		buildings = {
-			infrastructure = 1 #TODO_Manu: Was 2
-			9140 = {
-				naval_base = 1
-			}
-		}
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-		}
-	}
+    }
 	
 	provinces={
 		6012 6183 9140 11142 

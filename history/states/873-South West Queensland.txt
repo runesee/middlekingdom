@@ -5,11 +5,8 @@ state={
 		2116 2221 5198 10941 12949 
 	}
 	history = {
-		buildings = {
-			infrastructure = 1
-		}
-	}
-	state_category = pastoral
+    }
+    state_category = wasteland
 	manpower = 10
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

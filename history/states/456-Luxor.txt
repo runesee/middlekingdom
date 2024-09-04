@@ -4,20 +4,12 @@ state=
 	name="STATE_456" # Aswan
 	manpower = 4224516
 	
-	state_category = rural
+    state_category = wasteland
 	
 	history = {
 		owner = EGY
-		buildings = {
-			infrastructure = 2
-		}
-		victory_points = {
-			12071 20
-		}
-
 		add_core_of = EGY
-
-	}
+    }
 	provinces={
 		7073 12071
 	}

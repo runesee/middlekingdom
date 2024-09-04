@@ -4,16 +4,10 @@ state={
 	name="STATE_320"
 	manpower = 10
 
-	state_category = enclave
+    state_category = wasteland
 
 	history={
-		buildings = {
-			infrastructure = 3 #was: 5
-			10149 = {
-				naval_base = 1
-			}
-		}
-	}
+    }
 
 	provinces={ 10149 }
 

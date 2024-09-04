@@ -3,26 +3,14 @@ state={
 	name="STATE_777"
 
 	history={
-		victory_points = {
-			1951 1
-		}
-		buildings = {
-			infrastructure = 2
-			1951 = {
-				naval_base = 1
-
-			}
-
-		}
-
-	}
+    }
 
 	provinces={
 		1951 12843 13212 
 	}
 	manpower = 10
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+    state_category = wasteland
 
 	local_supplies=0.0 
 }

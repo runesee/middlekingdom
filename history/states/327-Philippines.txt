@@ -4,24 +4,9 @@ state=
 	name="STATE_327" # Luzon
 	manpower = 10
 	
-	state_category = town
+    state_category = wasteland
 	history=
 	{
-		buildings = {
-			infrastructure = 3 #was: 5
-			arms_factory = 1
-			industrial_complex = 3
-			air_base = 6
-			10265 = {
-				naval_base = 5
-			}
-		}
-		victory_points = {
-			10265 15 
-		}
-		victory_points = {
-			1221 1 
-		}
 	}
 
 	provinces={

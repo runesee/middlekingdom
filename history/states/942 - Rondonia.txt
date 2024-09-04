@@ -4,20 +4,10 @@ state = {
 	name = "STATE_942"
 	manpower = 10
 	
-	state_category = pastoral
+    state_category = wasteland
 
 	history = {
-
-
-		buildings = {
-			infrastructure = 1
-		}
-
-		victory_points = {
-			12939 2 
-		}
-
-	}
+    }
 
 	provinces = {
 		12939 13283 13284
