@@ -12,6 +12,6 @@ The Middle Kingdom of Egypt, as it stands around 2010 BC, has recently been reun
 
 ## Elam
 
-A storm is brewing in Mesopotamia. Elam has long quarreled for control on the southern banks of the Tigris and Eufrates. While the vast Sumerian empire stretches from the Mediterranean basin to the Persian gulf, Elam has been pushed out of Susa. This great Elamite city laying under foreign control is a dagger in the side of Kindattu. While they may have occupied the city, Sumer too was weakened by the strife. For the future of Elam Kindattu must return this dagger its Mesopotamian owners. This Goliat must be felled!
+A storm is brewing in Mesopotamia. Elam has long quarreled for control on the southern banks of the Tigris and Eufrates. While the vast Sumerian empire stretches from the Mediterranean basin to the Persian gulf, Elam has been pushed out of Susa. This great Elamite city laying under foreign control is a dagger in the side of Kindattu. While they may have occupied the city, Sumer too was weakened by the strife. For the future of Elam Kindattu must return this dagger to its Mesopotamian owners. This Goliat must be felled!
 
 ![Map of Elam](images/ela.png)
